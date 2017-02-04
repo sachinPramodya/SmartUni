@@ -28,6 +28,7 @@ public class MySqlConnector {
         }
         catch(ClassNotFoundException | SQLException e){
             e.printStackTrace();
+            
         }
         return db;
     }
