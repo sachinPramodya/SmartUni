@@ -16,7 +16,7 @@ public class SmartUni {
      */
     public static void main(String[] args) {
         // TODO code application logic 
-        System.out.println("hi");
+        System.out.println("hi softa");
     }
     
 }
